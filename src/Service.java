@@ -14,6 +14,7 @@ public class Service {
 		dog2.leg=1;
 		
 		System.out.println(dog1.leg);
+		System.out.println(dog1.leg);
 		System.out.println(dog2.leg);
 		System.out.println(dog1.eye);
 		System.out.println(dog2.eye);
