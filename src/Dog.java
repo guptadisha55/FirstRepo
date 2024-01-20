@@ -15,6 +15,7 @@ public class Dog {
 	public Dog() {
 		this("dd");
 		System.out.println("default constructor");
+		System.out.println("default constructor 2");
 	}
 	
 	public Dog(String name1) {
